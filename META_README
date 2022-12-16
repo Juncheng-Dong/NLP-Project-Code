@@ -1,0 +1,7 @@
+Author: Juncheng Dong, Oded Schlesinger, Yuren Zhou
+
+
+We have three proposed improvements over the SOTA model: iterative search, automatic label search, Bayesian search. To run related experiments, please go to the corresponding folder and follow the README file in that folder.
+
+Thank you. 
+
